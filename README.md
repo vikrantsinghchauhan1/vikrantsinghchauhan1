@@ -1,5 +1,7 @@
-Hi, I'm  Vikrant singh chauhan 👋
-About Me
+Hi, I'm  Vikrant singh chauhan 
+
+
+About Me:)
 
 I'm a developer interested in building useful software, exploring new technologies, and solving real-world problems.
 
